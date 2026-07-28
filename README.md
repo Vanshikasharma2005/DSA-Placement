@@ -33,3 +33,15 @@ This repository contains my daily **Data Structures & Algorithms** practice for 
 Problems are primarily solved on **LeetCode**, and accepted solutions are organized here topic-wise for future reference.
 
 ⭐ _Consistency over perfection. One problem at a time._
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
