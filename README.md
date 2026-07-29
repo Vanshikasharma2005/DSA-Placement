@@ -43,6 +43,7 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 | [0011-container-with-most-water](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0977-squares-of-a-sorted-array) |
@@ -69,4 +70,12 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
