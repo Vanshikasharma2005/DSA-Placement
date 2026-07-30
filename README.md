@@ -46,12 +46,14 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 | [0053-maximum-subarray](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
