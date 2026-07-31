@@ -107,4 +107,12 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
