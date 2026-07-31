@@ -41,6 +41,7 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 | ------- |
 | [0001-two-sum](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0053-maximum-subarray) |
@@ -60,6 +61,7 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0075-sort-colors) |
@@ -69,6 +71,7 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0217-contains-duplicate) |
