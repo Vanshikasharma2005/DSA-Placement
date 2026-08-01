@@ -70,6 +70,7 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 | [0088-merge-sorted-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -114,6 +115,7 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
