@@ -69,6 +69,7 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 | [0075-sort-colors](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0234-palindrome-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -103,6 +104,7 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -111,8 +113,10 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
