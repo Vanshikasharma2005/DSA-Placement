@@ -56,6 +56,7 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
@@ -69,6 +70,7 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 | [0075-sort-colors](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0977-squares-of-a-sorted-array) |
@@ -113,6 +115,7 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0876-middle-of-the-linked-list) |
