@@ -58,6 +58,7 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 | [0001-two-sum](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
@@ -75,6 +76,7 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 | [0141-linked-list-cycle](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0977-squares-of-a-sorted-array) |
@@ -141,4 +143,9 @@ Problems are primarily solved on **LeetCode**, and accepted solutions are organi
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Vanshikasharma2005/DSA-Placement/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
